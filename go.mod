@@ -29,7 +29,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/coreos/clair v2.0.1-0.20171220021131-30bd568d8361+incompatible // indirect
 	github.com/docker/cli v20.10.7+incompatible // indirect
-	github.com/docker/distribution v2.7.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v20.10.7+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/golang/mock v1.6.0 // indirect
